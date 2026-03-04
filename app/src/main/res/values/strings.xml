@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Liquid IO</string>
+    <string name="show_less">Show less</string>
+    <string name="show_more">Show more</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.</string>
+    <string name="sample_text_for_sample_icon">Sample Text for sample Icon</string>
+    <string name="title_activity_form_liquid_input">FormLiquidInput</string>
+    <string name="title_activity_form_liquid_output">FormLiquidOutput</string>
+    <string name="title_activity_liquid_dashboard">LiquidDashboard</string>
+</resources>
